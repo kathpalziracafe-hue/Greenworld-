@@ -1,1 +1,19 @@
 
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#f4f8f2;
+}
+
+header{
+background:#0b7a2d;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+.container{
+max-width:1200px;
+margin:auto;
+padding:20px;
+}
